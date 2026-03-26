@@ -62,13 +62,13 @@ Classe principal que executa o sistema:
 ## ▶️ Como executar o projeto
 
 ### Pré-requisitos:
-- Java JDK instalado (versão 8 ou superior)
+- Java JDK instalado
 
 ### Passos:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Peu06/ControleDeEstoque.git
 ```
 Acesse a pasta do projeto:
 cd seu-repositorio
